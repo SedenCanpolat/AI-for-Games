@@ -1,6 +1,6 @@
 # Artificial Intelligence for Games – Homework Projects
 
-This repository contains two different homework assignments developed for the **Artificial Intelligence for Games** course. The projects focus on steering behaviors and pathfinding algorithms commonly used in game AI.
+This repository contains two different homework assignments developed for the Artificial Intelligence for Games course.
 
 ## Project Structure
 
